@@ -1,2 +1,2 @@
-# mltest
-my ml test
+# pingpong game
+pingpong game
